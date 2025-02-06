@@ -1,4 +1,3 @@
-
 # 💻 Projeto Alura Plus
 
 Este é um projeto desenvolvido como parte dos estudos na **Formação Front-end** da Alura. Trata-se de uma **landing page** simples e responsiva criada com **HTML** e **CSS**.
@@ -11,4 +10,4 @@ Este é um projeto desenvolvido como parte dos estudos na **Formação Front-end
 O objetivo deste projeto foi praticar a construção de uma **página moderna e responsiva**, aplicando conceitos como **flexbox**, **CSS Grid** e boas práticas de desenvolvimento.
 
 ## 🔗 Deploy do Projeto
-Você pode visualizar o projeto online através do [GitHub Pages]()
+Você pode visualizar o projeto online através do [GitHub Pages]( https://vinicius-rodrigue-adriano.github.io/aluraplus/)
