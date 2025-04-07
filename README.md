@@ -10,4 +10,4 @@ Este é um projeto desenvolvido como parte dos estudos na **Formação Front-end
 O objetivo deste projeto foi praticar a construção de uma **página moderna e responsiva**, aplicando conceitos como **flexbox**, **CSS Grid** e boas práticas de desenvolvimento.
 
 ## 🔗 Deploy do Projeto
-Você pode visualizar o projeto online através do [GitHub Pages]( https://vinicius-rodrigue-adriano.github.io/aluraplus/)
+Você pode visualizar o projeto online através do [GitHub Pages](https://vinicius-rodrigues-adriano.github.io/aluraplus/)
